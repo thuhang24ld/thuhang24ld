@@ -2,8 +2,9 @@
 
 🏢 
 🐍 
-📊 
-📍 Ho Chi Minh City, Vietnam  
+📫 Reach me at thuhang24.ld@gmail.com
+📍 Ho Chi Minh City, Vietnam 
+⚡ Fun fact Processing data with the left brain, creating beauty and feeling with the right.
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
