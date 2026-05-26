@@ -8,7 +8,7 @@
 
 📍 Ho Chi Minh City, Vietnam 
 
-⚡ Fun fact Processing data with the left brain, creating beauty and feeling with the right.
+⚡ Fun fact **Nothing beats tropical fruits. | Change my mind!**
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
