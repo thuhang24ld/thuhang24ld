@@ -2,7 +2,7 @@
 ## A young-dumb 🤓 data analyst from Viet Nam
 🏢 
 🐍 
-📫 Reach me at thuhang24.ld@gmail.com
+📫 Reach me at thuhang24.ld@gmail.com /n
 📍 Ho Chi Minh City, Vietnam 
 ⚡ Fun fact Processing data with the left brain, creating beauty and feeling with the right.
 
