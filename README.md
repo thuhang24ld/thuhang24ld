@@ -9,4 +9,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thuhang24ld&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=thuhang24ld&theme=default&locale=en)
