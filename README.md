@@ -1,9 +1,13 @@
 # Hello there, I'm Thu Hang, Welcome to my Git profile 👋
 ## A young-dumb 🤓 data analyst from Viet Nam
 🏢 
+
 🐍 
-📫 Reach me at thuhang24.ld@gmail.com /n
+
+📫 Reach me at thuhang24.ld@gmail.com
+
 📍 Ho Chi Minh City, Vietnam 
+
 ⚡ Fun fact Processing data with the left brain, creating beauty and feeling with the right.
 
 ## 🛠️ Tech Stack
