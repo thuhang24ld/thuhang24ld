@@ -1,5 +1,5 @@
 # Hello there, I'm Thu Hang, Welcome to my Git profile 👋
-A young-dumb 🤓 data analyst from Viet Nam
+# A young-dumb 🤓 data analyst from Viet Nam
 🏢 
 🐍 
 📫 Reach me at thuhang24.ld@gmail.com
